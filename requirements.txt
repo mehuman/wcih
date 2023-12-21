@@ -2,3 +2,4 @@ PyPDF2==2.12.1
 camelot-py
 camelot-py[cv]
 camelot-py[all]
+pandas==2.1.4
